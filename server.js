@@ -34,5 +34,9 @@ slapp.message('<@U0PG1GRLH>', msg => {
   msg.say(_.shuffle(philResponse)[0]);
 });
 
+slapp.message('(.*)', ['direct_message'], msg => {
+  msg.say(_.shuffle(philResponse)[0]);
+});
+
 console.log('Listening on :' + process.env.PORT);
 app.listen(process.env.PORT);
