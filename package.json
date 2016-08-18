@@ -1,0 +1,17 @@
+{
+  "name": "done-done-bot",
+  "private": false,
+  "version": "0.0.0",
+  "description": "A slack bot that integrates with Done Done",
+  "repository": "https://github.com/samfeder/done-done-bot",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "lodash": "^4.15.0",
+    "slapp": "^1.0.1",
+    "slapp-context-beepboop": "^1.0.0",
+    "slapp-convo-beepboop": "^1.0.0"
+  },
+  "dependencies": {
+    "slapp": "^1.0.2"
+  }
+}
