@@ -11,7 +11,8 @@ const philResponse = [
   'Headin to the ‘nox to work on my fitness, will be back on slack later!',
   'DK run anybody?',
   'Can\'t tonight - running a 5K',
-  'I didn\'t ask to be part of this narrative'
+  'I didn\'t ask to be part of this narrative',
+  'This is cyberbullying :face_with_head_bandage:'
 ];
 
 if (!process.env.PORT) throw Error('PORT missing but required');
