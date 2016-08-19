@@ -12,7 +12,12 @@ const philResponse = [
   'DK run anybody?',
   'Can\'t tonight - running a 5K',
   'I didn\'t ask to be part of this narrative',
-  'This is cyberbullying :face_with_head_bandage:'
+  'This is cyberbullying :face_with_head_bandage:',
+  'Everything about this is mean!',
+  'I don\'t wanna be a bot!',
+  'Who hasn\'t lied about being robbed??',
+  'Ryan Lochte is innocent!',
+  'Can I get some lox on that?'
 ];
 
 if (!process.env.PORT) throw Error('PORT missing but required');
