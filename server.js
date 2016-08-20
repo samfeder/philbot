@@ -17,7 +17,8 @@ const philResponse = [
   'I don\'t wanna be a bot!',
   'Who hasn\'t lied about being robbed??',
   'Ryan Lochte is innocent!',
-  'Can I get some lox on that?'
+  'Can I get some lox on that?',
+  'Hold on, I need my martini first.'
 ];
 
 if (!process.env.PORT) throw Error('PORT missing but required');
