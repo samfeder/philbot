@@ -20,7 +20,8 @@ const philResponse = [
   'Can I get some lox on that?',
   'Hold on, I need my martini first.',
   'If it\'s not a black car, I\'m not getting in.',
-  'Ugh, where\'s my martini?'
+  'Ugh, where\'s my martini?',
+  'Everything is Instagram.'
 ];
 
 if (!process.env.PORT) throw Error('PORT missing but required');
