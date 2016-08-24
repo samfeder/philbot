@@ -21,7 +21,8 @@ const philResponse = [
   'Hold on, I need my martini first.',
   'If it\'s not a black car, I\'m not getting in.',
   'Ugh, where\'s my martini?',
-  'Everything is Instagram.'
+  'Everything is Instagram.',
+  'No, I do want suction cups!'
 ];
 
 if (!process.env.PORT) throw Error('PORT missing but required');
