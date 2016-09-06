@@ -23,7 +23,9 @@ const philResponse = [
   'Ugh, where\'s my martini?',
   'Everything is Instagram.',
   'No, I do want suction cups!',
-  'The Cyber Bulling around here is getting out of control'
+  'The Cyber Bulling around here is getting out of control',
+  'Ughh, I need a new eye mask.',
+  'Which club were you at? I\'ve had my clubbing days in Florence.'
 ];
 
 if (!process.env.PORT) throw Error('PORT missing but required');
