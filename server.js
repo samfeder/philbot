@@ -25,7 +25,8 @@ const philResponse = [
   'No, I do want suction cups!',
   'The Cyber Bulling around here is getting out of control',
   'Ughh, I need a new eye mask.',
-  'Which club were you at? I\'ve had my clubbing days in Florence.'
+  'Which club were you at? I\'ve had my clubbing days in Florence.',
+  'I\'m about to go home sick cuz I\'m so sick of everyone'
 ];
 
 if (!process.env.PORT) throw Error('PORT missing but required');
