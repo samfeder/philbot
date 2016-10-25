@@ -26,7 +26,8 @@ const philResponse = [
   'The Cyber Bulling around here is getting out of control',
   'Ughh, I need a new eye mask.',
   'Which club were you at? I\'ve had my clubbing days in Florence.',
-  'I\'m about to go home sick cuz I\'m so sick of everyone'
+  'I\'m about to go home sick cuz I\'m so sick of everyone',
+  'That\'s not funny bro! It\'s mean!'
 ];
 
 if (!process.env.PORT) throw Error('PORT missing but required');
