@@ -23,7 +23,7 @@ const philResponse = [
   'Ugh, where\'s my martini?',
   'Everything is Instagram.',
   'No, I do want suction cups!',
-  'The Cyber Bulling around here is getting out of control',
+  'The Cyber Bullying around here is getting out of control',
   'Ughh, I need a new eye mask.',
   'Which club were you at? I\'ve had my clubbing days in Florence.',
   'I\'m about to go home sick cuz I\'m so sick of everyone',
