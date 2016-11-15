@@ -16,7 +16,6 @@ const philResponse = [
   'Everything about this is mean!',
   'I don\'t wanna be a bot!',
   'Who hasn\'t lied about being robbed??',
-  'Ryan Lochte is innocent!',
   'Can I get some lox on that?',
   'Hold on, I need my martini first.',
   'If it\'s not a black car, I\'m not getting in.',
@@ -27,7 +26,11 @@ const philResponse = [
   'Ughh, I need a new eye mask.',
   'Which club were you at? I\'ve had my clubbing days in Florence.',
   'I\'m about to go home sick cuz I\'m so sick of everyone',
-  'That\'s not funny bro! It\'s mean!'
+  'That\'s not funny bro! It\'s mean!',
+  'One of the good things about me is that I\'m always relevant.',
+  'I\'m going to get a ponytail!',
+  'I want to be a baby!',
+  'We need a eucalyptus candle, you know? Make this place into a little spa.'
 ];
 
 if (!process.env.PORT) throw Error('PORT missing but required');
