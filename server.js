@@ -30,7 +30,8 @@ const philResponse = [
   'One of the good things about me is that I\'m always relevant.',
   'I\'m going to get a ponytail!',
   'I want to be a baby!',
-  'We need a eucalyptus candle, you know? Make this place into a little spa.'
+  'We need a eucalyptus candle, you know? Make this place into a little spa.',
+  'Carbs on a Friday?! Yeah right.'
 ];
 
 if (!process.env.PORT) throw Error('PORT missing but required');
