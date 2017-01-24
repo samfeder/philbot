@@ -17,6 +17,7 @@ const philResponse = [
   'I don\'t wanna be a bot!',
   'Who hasn\'t lied about being robbed??',
   'Can I get some lox on that?',
+  'Is powpow one word??',
   'Hold on, I need my martini first.',
   'If it\'s not a black car, I\'m not getting in.',
   'Ugh, where\'s my martini?',
