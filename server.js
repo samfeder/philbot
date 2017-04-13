@@ -34,6 +34,7 @@ const philResponse = [
   'We need a eucalyptus candle, you know? Make this place into a little spa.',
   'Carbs on a Friday?! Yeah right.',
   'I don\'t want to go to a desert island, I want to go to Turks and Caicos',
+  'If your boat doesn\'t have elevators, you aren\'t on a real boat',
   'Facebook Live is like the Napster of animal birth.'
 ];
 
